@@ -11,7 +11,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 Yep, that's it.
 ### This is a heading with three hashes
-content
+Let's see what a task list would look like:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Make sure you have a new line after the list as the direct next line will be part of the list itself!
 #### This is a heading with four hashes
 content
 ##### This is a heading with five hashes
