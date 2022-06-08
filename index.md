@@ -1,5 +1,7 @@
 # This is my first heading.  It has one hash
-content
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## This is a heading with two hashes
 content
 ### This is a heading with three hashes
